@@ -1,48 +1,53 @@
-body{
+body {
     
 }
 
-.titulo-centralizado{
+.titulo-centralizado {
     margin-right: 20px;
 }
 
-#banner{
+#banner {
     width: 100%;
 }
 
-.paragrafos{
+.paragrafos {
     background: #CCCCCC;
     text-align: center;
 }
 
-.p2{
+.p2 {
     font-size: 20px;
 }
 
-em strong{
+em strong {
     color: #FF0000;
 }
 
-.beneficios{
+.beneficios {
     background: #FFFFFF;
     padding: 30px;
 }
 
-.titulo-centralizado{
+.titulo-centralizado {
     text-align: center;
 }
 
-ul{
+ul {
     display: inline-block;
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
 }
 
-.itens{
+.itens {
     font-style: italic;
 }
 
-.imgbeneficios{
+.imgbeneficios {
     width: 50%;
+}
+
+.produto-preco {
+    font-size: 22px;
+    font-weight: bold;
 }
